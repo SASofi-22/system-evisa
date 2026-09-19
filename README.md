@@ -1,2 +1,1 @@
-name= "التاشيرة الالكترونية"
-print= ("welcome" + name)
+sestem evisa
